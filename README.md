@@ -36,7 +36,7 @@ Intechship is mobile app built using flutter as a project to participate in DSC 
 ### Built With
 
 - [Flutter](https://flutter.dev/) <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="15px">
-- [Firebase](https://firebase.google.com/) <img src="http://assets.stickpng.com/images/5847f40ecef1014c0b5e488a.png" width="15px">
+- [Firebase](https://firebase.google.com/) <img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" width="15px">
 
 <!-- GETTING STARTED -->
 
