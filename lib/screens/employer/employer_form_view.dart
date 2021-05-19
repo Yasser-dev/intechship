@@ -147,7 +147,7 @@ class EmployerFormScreen extends StatelessWidget {
                         ),
                         IntechshipTextField(
                           label: 'Duration',
-                          hint: 'duration in months',
+                          hint: 'duration in weeks',
                           initialValue: viewmodel.listing.duration?.toString(),
                           validator: viewmodel.emptyValidator,
                           onSaved: viewmodel.onDurationSaved,

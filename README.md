@@ -36,8 +36,34 @@ Intechship is mobile app built using flutter as a project to participate in DSC 
 ### Built With
 
 - [Flutter](https://flutter.dev/) <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="15px">
-- [Firebase](https://firebase.google.com/) <img src="http://assets.stickpng.com/images/5847f40ecef1014c0b5e488a.png" width="15px">
+- [Firebase](https://firebase.google.com/) <img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" width="15px">
 
+## Screenshots
+
+### Internships listings
+
+<p float="left">
+  <img src="/screenshots/splash.png" width="200" />
+  <img src="/screenshots/internships.png" width="200" />
+  <img src="/screenshots/details.png" width="200" />
+  <img src="/screenshots/search.png" width="200" />
+  <img src="/screenshots/filters.png" width="200" />
+</p>
+
+### Add a listing
+
+<p float="left">
+  <img src="/screenshots/employer.png" width="200" />
+  <img src="/screenshots/add-1-1.png" width="200" />
+  <img src="/screenshots/add-1-2.png" width="200" />
+  <img src="/screenshots/add-2-1.png" width="200" />
+  <img src="/screenshots/add-2-2.png" width="200" />
+  <img src="/screenshots/add-2-3.png" width="200" />
+  <img src="/screenshots/add-2-4.png" width="200" />
+  <img src="/screenshots/add-3-1.png" width="200" />
+  <img src="/screenshots/add-3-2.png" width="200" />
+  <img src="/screenshots/add-success.png" width="200" />
+</p>
 <!-- GETTING STARTED -->
 
 ## Getting Started
